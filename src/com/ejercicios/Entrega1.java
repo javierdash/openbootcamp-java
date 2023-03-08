@@ -1,6 +1,6 @@
-package com.ejercicio1;
+package com.ejercicios;
 
-public class PrimeraClase {
+public class Entrega1 {
     public static void main(String[] args) {
        int entero = 22;
        long grande = 44959559;

@@ -1,4 +1,4 @@
-package com.ejercicio1;
+package com.ejercicios;
 
 public class Entrega3 {
     public static void main(String[] args) {
@@ -7,6 +7,6 @@ public class Entrega3 {
         for(int i = 0; i < nombres.length; i++) {
             System.out.println(nombres[i]);
         }
-        
+
     }
 }
